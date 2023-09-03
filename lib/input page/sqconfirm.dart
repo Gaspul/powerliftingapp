@@ -185,19 +185,6 @@ class _SQConfirmState extends State<SQConfirm> {
                 ),
               ),
             ),
-            // ElevatedButton(
-            //   style: ElevatedButton.styleFrom(
-            //     backgroundColor: Colors.black,
-            //     foregroundColor: Colors.grey,
-            //   ),
-            //   onPressed: () {},
-            //   child: Text(
-            //     'Realtime Detection',
-            //     style: TextStyle(
-            //       color: Colors.white
-            //     ),
-            //     ),
-            // ),
           ],
         ),
       ),

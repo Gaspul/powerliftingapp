@@ -185,19 +185,19 @@ class _DLConfirmState extends State<DLConfirm> {
                 ),
               ),
             ),
-            ElevatedButton(
-              style: ElevatedButton.styleFrom(
-                backgroundColor: Colors.black,
-                foregroundColor: Colors.grey,
-              ),
-              onPressed: () {},
-              child: Text(
-                'Realtime Detection',
-                style: TextStyle(
-                  color: Colors.white
-                ),
-                ),
-            ),
+            // ElevatedButton(
+            //   style: ElevatedButton.styleFrom(
+            //     backgroundColor: Colors.black,
+            //     foregroundColor: Colors.grey,
+            //   ),
+            //   onPressed: () {},
+            //   child: Text(
+            //     'Realtime Detection',
+            //     style: TextStyle(
+            //       color: Colors.white
+            //     ),
+            //     ),
+            // ),
           ],
         ),
       ),

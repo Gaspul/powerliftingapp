@@ -21,7 +21,7 @@ class _BPInputConfirmState extends State<BPInputConfirm> {
 
   late VideoPlayerController _controller;
   bool _isVideoReady = false;
-  final String serverUrl = 'http://192.168.1.9:5000/process_benchpress';
+  final String serverUrl = 'http://10.10.202.176:44000/process_benchpress';
 
   void onStartDetectionButtonPressed() async {
     

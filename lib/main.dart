@@ -28,7 +28,6 @@ class MyApp extends StatelessWidget {
         '/' : (context) => const SplashScreen(),
         '/landing' : (context) => const LandingPage(),
       },
-      // home: SplashScreen(),
     );
   }
 }

@@ -21,7 +21,7 @@ class _DLInputConfirmState extends State<DLInputConfirm> {
   
   late VideoPlayerController _controller;
   bool _isVideoReady = false;
-  final String serverUrl = 'http://192.168.1.9:5000/process_deadlift';
+  final String serverUrl = 'http://10.10.202.176:44000/process_deadlift';
 
   void _processFrame(File frameFile) async {
 
